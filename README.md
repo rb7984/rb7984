@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rb7984
+Hi, I’m @rb7984
 I’m interested in Computational Design
 I’m currently learning python
 
