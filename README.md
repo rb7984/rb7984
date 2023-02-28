@@ -1,5 +1,5 @@
 Hi, I’m @rb7984
-I’m interested in Computational Design for Achitectural use, I’m currently learning python!
+I’m interested in Computational Design for Achitectural use, I’m currently learning python.
 
 Reach me on ig
 @riccbarelli
